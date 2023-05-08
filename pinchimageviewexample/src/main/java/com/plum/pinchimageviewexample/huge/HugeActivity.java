@@ -1,11 +1,11 @@
-package com.boycy815.pinchimageviewexample.huge;
+package com.plum.pinchimageviewexample.huge;
 
 import android.app.Activity;
 import android.graphics.Point;
 import android.net.Uri;
 import android.os.Bundle;
 
-import com.boycy815.pinchimageview.PinchImageView;
+import com.plum.pinchimageview.PinchImageView;
 import com.boycy815.pinchimageviewexample.R;
 
 

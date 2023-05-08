@@ -1,4 +1,4 @@
-package com.boycy815.pinchimageviewexample.zoomtransition;
+package com.plum.pinchimageviewexample.zoomtransition;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -8,7 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 
-import com.boycy815.pinchimageviewexample.Global;
+import com.plum.pinchimageviewexample.Global;
 import com.boycy815.pinchimageviewexample.R;
 import com.nostra13.universalimageloader.core.DisplayImageOptions;
 import com.nostra13.universalimageloader.core.ImageLoader;

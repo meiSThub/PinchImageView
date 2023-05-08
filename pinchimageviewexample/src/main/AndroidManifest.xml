@@ -9,18 +9,18 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name">
         <activity
-            android:name=".IndexActivity"
+            android:name="com.plum.pinchimageviewexample.IndexActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".withviewpager.PagerActivity" />
-        <activity android:name=".zoomtransition.ThumbViewActivity" />
+        <activity android:name="com.plum.pinchimageviewexample.withviewpager.PagerActivity" />
+        <activity android:name="com.plum.pinchimageviewexample.zoomtransition.ThumbViewActivity" />
         <activity
-            android:name=".zoomtransition.PicViewActivity"
+            android:name="com.plum.pinchimageviewexample.zoomtransition.PicViewActivity"
             android:theme="@style/pic_view" />
-        <activity android:name=".huge.HugeActivity" />
+        <activity android:name="com.plum.pinchimageviewexample.huge.HugeActivity" />
     </application>
 </manifest>

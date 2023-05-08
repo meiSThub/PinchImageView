@@ -1,4 +1,4 @@
-package com.boycy815.pinchimageview;
+package com.plum.pinchimageview;
 
 import android.animation.ValueAnimator;
 import android.content.Context;

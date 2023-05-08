@@ -1,4 +1,4 @@
-package com.boycy815.pinchimageviewexample.images;
+package com.plum.pinchimageviewexample.images;
 
 import java.io.Serializable;
 

@@ -1,9 +1,9 @@
-package com.boycy815.pinchimageviewexample.images;
+package com.plum.pinchimageviewexample.images;
 
 import android.graphics.RectF;
 import android.widget.ImageView;
 
-import com.boycy815.pinchimageview.PinchImageView;
+import com.plum.pinchimageview.PinchImageView;
 
 /**
  * 蜂鸟网的图片素材

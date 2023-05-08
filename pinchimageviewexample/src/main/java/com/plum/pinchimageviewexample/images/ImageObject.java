@@ -1,4 +1,4 @@
-package com.boycy815.pinchimageviewexample.images;
+package com.plum.pinchimageviewexample.images;
 
 /**
  * 图片信息结构体

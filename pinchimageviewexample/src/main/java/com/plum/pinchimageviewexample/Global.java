@@ -1,9 +1,9 @@
-package com.boycy815.pinchimageviewexample;
+package com.plum.pinchimageviewexample;
 
 import android.content.Context;
 
-import com.boycy815.pinchimageviewexample.images.FengNiaoImageSource;
-import com.boycy815.pinchimageviewexample.images.ImageSource;
+import com.plum.pinchimageviewexample.images.FengNiaoImageSource;
+import com.plum.pinchimageviewexample.images.ImageSource;
 import com.nostra13.universalimageloader.core.ImageLoader;
 import com.nostra13.universalimageloader.core.ImageLoaderConfiguration;
 

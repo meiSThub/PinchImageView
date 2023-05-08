@@ -1,4 +1,4 @@
-package com.boycy815.pinchimageviewexample.huge;
+package com.plum.pinchimageviewexample.huge;
 
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
@@ -14,7 +14,7 @@ import android.os.Handler;
 import android.os.Message;
 import android.widget.ImageView;
 
-import com.boycy815.pinchimageview.PinchImageView;
+import com.plum.pinchimageview.PinchImageView;
 
 /**
  * Created by clifford on 16/4/6.

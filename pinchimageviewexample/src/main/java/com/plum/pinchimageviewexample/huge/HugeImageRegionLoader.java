@@ -1,4 +1,4 @@
-package com.boycy815.pinchimageviewexample.huge;
+package com.plum.pinchimageviewexample.huge;
 
 import android.content.ContentResolver;
 import android.content.Context;

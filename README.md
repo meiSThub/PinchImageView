@@ -61,7 +61,7 @@ APK下载：**[demo.apk](demo/demo.apk)**
     <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
-        <com.boycy815.pinchimageview.PinchImageView
+        <com.plum.pinchimageview.PinchImageView
             android:id="@+id/pic"
             android:layout_width="match_parent"
             android:layout_height="match_parent"

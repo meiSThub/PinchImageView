@@ -1,4 +1,4 @@
-package com.boycy815.pinchimageviewexample.zoomtransition;
+package com.plum.pinchimageviewexample.zoomtransition;
 
 import android.animation.Animator;
 import android.animation.ObjectAnimator;
@@ -12,11 +12,11 @@ import android.view.SoundEffectConstants;
 import android.view.View;
 import android.widget.ImageView;
 
-import com.boycy815.pinchimageview.PinchImageView;
-import com.boycy815.pinchimageviewexample.Global;
+import com.plum.pinchimageview.PinchImageView;
+import com.plum.pinchimageviewexample.Global;
 import com.boycy815.pinchimageviewexample.R;
-import com.boycy815.pinchimageviewexample.images.ImageObject;
-import com.boycy815.pinchimageviewexample.images.ImageSource;
+import com.plum.pinchimageviewexample.images.ImageObject;
+import com.plum.pinchimageviewexample.images.ImageSource;
 import com.nostra13.universalimageloader.core.DisplayImageOptions;
 import com.nostra13.universalimageloader.core.ImageLoader;
 

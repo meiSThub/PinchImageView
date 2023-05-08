@@ -1,4 +1,4 @@
-package com.boycy815.pinchimageviewexample.withviewpager;
+package com.plum.pinchimageviewexample.withviewpager;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -7,10 +7,10 @@ import androidx.viewpager.widget.ViewPager;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.boycy815.pinchimageview.PinchImageView;
-import com.boycy815.pinchimageviewexample.Global;
+import com.plum.pinchimageview.PinchImageView;
+import com.plum.pinchimageviewexample.Global;
 import com.boycy815.pinchimageviewexample.R;
-import com.boycy815.pinchimageviewexample.images.ImageSource;
+import com.plum.pinchimageviewexample.images.ImageSource;
 import com.nostra13.universalimageloader.core.DisplayImageOptions;
 
 import java.util.LinkedList;

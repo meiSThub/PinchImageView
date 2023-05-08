@@ -1,4 +1,4 @@
-package com.boycy815.pinchimageviewexample;
+package com.plum.pinchimageviewexample;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -6,9 +6,10 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
 
-import com.boycy815.pinchimageviewexample.huge.HugeActivity;
-import com.boycy815.pinchimageviewexample.withviewpager.PagerActivity;
-import com.boycy815.pinchimageviewexample.zoomtransition.ThumbViewActivity;
+import com.boycy815.pinchimageviewexample.R;
+import com.plum.pinchimageviewexample.huge.HugeActivity;
+import com.plum.pinchimageviewexample.withviewpager.PagerActivity;
+import com.plum.pinchimageviewexample.zoomtransition.ThumbViewActivity;
 
 
 public class IndexActivity extends Activity {
